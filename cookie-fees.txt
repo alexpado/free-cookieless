@@ -1,0 +1,4 @@
+#
+# Block domains known for asking to pay to deny cookies
+#
+0.0.0.0 commentcamarche.net
