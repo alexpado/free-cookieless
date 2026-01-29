@@ -1,9 +1,49 @@
 # Block domains known for asking to pay to deny cookies
 # SHAME ON YOU
 
-# 2€ MONTHLY
-0.0.0.0 www.allocine.fr
-0.0.0.0 www.jeuxvideo.com
+#------------------------------------------------------
+# PAY OR CONSENT: WITH A MONTHLY PAYMENT
+#------------------------------------------------------
 
-# 1€ ONE-TIME
-0.0.0.0 commentcamarche.net
+# 2€ MONTHLY
+0.0.0.0 www.3djuegos.com
+0.0.0.0 www.750g.com
+0.0.0.0 www.allocine.fr
+0.0.0.0 www.applesfera.com
+0.0.0.0 www.compradiccion.com
+0.0.0.0 www.directoalpaladar.com
+0.0.0.0 www.easyvoyage.com
+0.0.0.0 www.espinof.com
+0.0.0.0 www.genbeta.com
+0.0.0.0 www.jeuxvideo.com
+0.0.0.0 le10sport.com
+0.0.0.0 www.motorpasion.com
+0.0.0.0 www.over-blog.com
+0.0.0.0 www.poprosa.com
+0.0.0.0 www.purepeople.com
+0.0.0.0 www.sensacine.com
+0.0.0.0 www.trendencias.com
+0.0.0.0 www.vitonica.com
+0.0.0.0 www.xataka.com
+
+# 1€ MONTHLY
+0.0.0.0 www.canalblog.com
+0.0.0.0 www.chartsinfrance.net
+0.0.0.0 www.eklablog.com
+0.0.0.0 www.ozap.com
+0.0.0.0 www.purebreak.com
+0.0.0.0 www.terrafemina.com
+
+#------------------------------------------------------
+# PAY OR CONSENT: WITH A ONE TIME PAYMENT
+#------------------------------------------------------
+
+# 1€ ONE TIME PAYMENT
+0.0.0.0 commentcamarche.net # 24H PER PAYMENT
+
+#------------------------------------------------------
+# SUBSCRIBE TO A SERVICE OR CONSENT
+#------------------------------------------------------
+
+0.0.0.0 www.academiedugout.fr # 7.99€ MONTHLY
+0.0.0.0 www.gamepro.de # 2.99€ MONTHLY
