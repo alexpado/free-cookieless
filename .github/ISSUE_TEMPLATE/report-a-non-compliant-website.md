@@ -1,8 +1,8 @@
 ---
 name: Report a Non-Compliant Website
 about: Report a site using dark patterns or pay-to-reject models.
-title: "[REPORT]"
-labels: ''
+title: ''
+labels: Report
 assignees: ''
 
 ---
