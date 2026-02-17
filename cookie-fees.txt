@@ -11,27 +11,50 @@
 # 3.99€ MONTHLY
 0.0.0.0 as.com
 0.0.0.0 www.aupaathletic.com
+0.0.0.0 www.autocad-magazin.de
+0.0.0.0 www.bafoeg-rechner.de
+0.0.0.0 www.buchpanda.de
+0.0.0.0 www.cadenadial.com
 0.0.0.0 www.checkpoint-golf.com
+0.0.0.0 www.chip.de
+0.0.0.0 www.digitalbusiness-magazin.de
 0.0.0.0 www.emtb-news.de
+0.0.0.0 www.fahrschule-online.de
 0.0.0.0 www.faszination-fankurve.de
+0.0.0.0 filext.com
 0.0.0.0 www.fitforfun.de
+0.0.0.0 www.free-fonts.com
 0.0.0.0 www.fussballfieber.de
 0.0.0.0 gazetefutbol.de
 0.0.0.0 www.gladbachlive.de
 0.0.0.0 www.golfnstyle.de
 0.0.0.0 gruene-zitate.de
+0.0.0.0 it-learner.de
+0.0.0.0 karrierebibel.de
+0.0.0.0 los40.com
+0.0.0.0 www.marconomy.de
+0.0.0.0 www.mein-sprungbrett.de
 0.0.0.0 www.menshealth.com
 0.0.0.0 www.mtb-news.de
+0.0.0.0 www.nextpit.de
+0.0.0.0 www.nextpit.fr
 0.0.0.0 www.nimms-rad.de
 0.0.0.0 outside-stories.de
 0.0.0.0 www.radsport-news.com
 0.0.0.0 www.relevo.com
 0.0.0.0 www.rennrad-news.de
+0.0.0.0 www.rockhard.de
 0.0.0.0 www.runnersworld.com
 0.0.0.0 www.skysportaustria.at
+0.0.0.0 www.smartissimo.de
 0.0.0.0 www.sport1.de
 0.0.0.0 www.sportlerfrage.net
 0.0.0.0 www.spox.com
+0.0.0.0 www.springerprofessional.de
+0.0.0.0 www.studis-online.de
+0.0.0.0 www.stvo2go.de
+0.0.0.0 www.teltarif.ch
+0.0.0.0 www.teltarif.de
 0.0.0.0 www.transfermarkt.at
 0.0.0.0 www.transfermarkt.be
 0.0.0.0 www.transfermarkt.ch
@@ -56,9 +79,14 @@
 0.0.0.0 www.transfermarkt.pt
 0.0.0.0 www.transfermarkt.ro
 0.0.0.0 www.transfermarkt.world
+0.0.0.0 www.verben.de
+0.0.0.0 www.verbformen.de
+0.0.0.0 www.verbformen.es
+0.0.0.0 www.verbformen.ru
 0.0.0.0 www.walfoot.be
 0.0.0.0 www.waller-fangen.de
 0.0.0.0 www.we-go-wild.com
+0.0.0.0 www.woerter.ru
 0.0.0.0 www.womenshealthmag.com
 
 # £3.49 MONTHLY
@@ -73,9 +101,12 @@
 0.0.0.0 www.derbycounty.news
 0.0.0.0 www.everton.news
 0.0.0.0 www.f1oversteer.com
+0.0.0.0 www.forevergeek.com
+0.0.0.0 www.freshered.com
 0.0.0.0 www.geordiebootboys.com
 0.0.0.0 www.goal.com
 0.0.0.0 www.hammers.news
+0.0.0.0 www.historyextra.com
 0.0.0.0 www.hitc.com
 0.0.0.0 www.intermiami.news
 0.0.0.0 www.leedsunited.news
@@ -151,3 +182,4 @@
 
 0.0.0.0 www.academiedugout.fr # 7.99€ MONTHLY
 0.0.0.0 www.gamepro.de # 2.99€ MONTHLY
+0.0.0.0 www.numerama.com # 2.07€ BIYEARLY OR MORE
